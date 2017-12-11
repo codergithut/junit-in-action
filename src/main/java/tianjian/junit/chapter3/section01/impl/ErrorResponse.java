@@ -1,4 +1,4 @@
-package tianjian.junit.chapter3.section01.util;
+package tianjian.junit.chapter3.section01.impl;
 
 import tianjian.junit.chapter3.section01.Request;
 import tianjian.junit.chapter3.section01.Response;

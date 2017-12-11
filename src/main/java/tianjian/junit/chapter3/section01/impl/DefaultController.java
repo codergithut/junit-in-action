@@ -4,7 +4,6 @@ import tianjian.junit.chapter3.section01.Controller;
 import tianjian.junit.chapter3.section01.Request;
 import tianjian.junit.chapter3.section01.RequestHandler;
 import tianjian.junit.chapter3.section01.Response;
-import tianjian.junit.chapter3.section01.util.ErrorResponse;
 
 import java.util.HashMap;
 import java.util.Map;
