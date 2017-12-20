@@ -1,7 +1,7 @@
-package tianjian.junit.chapter3.section01.impl;
+package tianjian.section02.impl;
 
-import tianjian.junit.chapter3.section01.Request;
-import tianjian.junit.chapter3.section01.Response;
+import tianjian.section02.Request;
+import tianjian.section02.Response;
 
 /**
  * Created by tianjian on 2017/12/11.

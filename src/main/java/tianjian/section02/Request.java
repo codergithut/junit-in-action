@@ -1,4 +1,4 @@
-package tianjian.junit.chapter3.section01;
+package tianjian.section02;
 
 /**
  * Created by tianjian on 2017/12/11.

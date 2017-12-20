@@ -1,9 +1,9 @@
-package tianjian.junit.chapter3.section01.impl;
+package tianjian.section02.impl;
 
-import tianjian.junit.chapter3.section01.Controller;
-import tianjian.junit.chapter3.section01.Request;
-import tianjian.junit.chapter3.section01.RequestHandler;
-import tianjian.junit.chapter3.section01.Response;
+import tianjian.section02.Controller;
+import tianjian.section02.Request;
+import tianjian.section02.RequestHandler;
+import tianjian.section02.Response;
 
 import java.util.HashMap;
 import java.util.Map;

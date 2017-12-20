@@ -1,12 +1,12 @@
-package tianjian.junit.chapter3.section01.test;
+package tianjian.section2;
 
 import org.junit.Before;
 import org.junit.Test;
-import tianjian.junit.chapter3.section01.Request;
-import tianjian.junit.chapter3.section01.RequestHandler;
-import tianjian.junit.chapter3.section01.Response;
-import tianjian.junit.chapter3.section01.impl.DefaultController;
-import tianjian.junit.chapter3.section01.impl.ErrorResponse;
+import tianjian.section02.Request;
+import tianjian.section02.RequestHandler;
+import tianjian.section02.impl.DefaultController;
+import tianjian.section02.impl.ErrorResponse;
+import tianjian.section02.Response;
 
 import static junit.framework.TestCase.assertSame;
 import static org.junit.Assert.assertEquals;
