@@ -1,12 +1,9 @@
-package tianjian.section2;
+package tianjian.section02;
 
 import org.junit.Before;
 import org.junit.Test;
-import tianjian.section02.Request;
-import tianjian.section02.RequestHandler;
 import tianjian.section02.impl.DefaultController;
 import tianjian.section02.impl.ErrorResponse;
-import tianjian.section02.Response;
 
 import static junit.framework.TestCase.assertSame;
 import static org.junit.Assert.assertEquals;

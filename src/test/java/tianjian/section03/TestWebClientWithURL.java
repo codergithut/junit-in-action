@@ -1,8 +1,7 @@
-package tianjian.section3;
+package tianjian.section03;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
-import tianjian.section03.Webclient;
 import tianjian.section03.sub.StubHttpURLConnection;
 
 import java.io.IOException;

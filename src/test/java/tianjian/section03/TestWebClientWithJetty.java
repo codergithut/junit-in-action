@@ -1,4 +1,4 @@
-package tianjian.section3;
+package tianjian.section03;
 
 import org.junit.*;
 import org.mortbay.jetty.HttpHeaders;
@@ -6,7 +6,6 @@ import org.mortbay.jetty.Server;
 import org.mortbay.jetty.handler.AbstractHandler;
 import org.mortbay.jetty.servlet.Context;
 import org.mortbay.util.ByteArrayISO8859Writer;
-import tianjian.section03.Webclient;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;

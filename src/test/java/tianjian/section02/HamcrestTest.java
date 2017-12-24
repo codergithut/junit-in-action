@@ -1,4 +1,4 @@
-package tianjian.section2;
+package tianjian.section02;
 
 import org.junit.Before;
 import org.junit.Test;
