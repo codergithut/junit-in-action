@@ -1,0 +1,21 @@
+package tianjian.section06;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+
+/**
+ * Created by tianjian on 2017/12/24.
+ */
+public class SampleServlet extends HttpServlet {
+
+    public boolean isAuthenticated(HttpServletRequest request) {
+        HttpSession session = request.getSession(false);
+        if(session == null) {
+            return false;
+        }
+        String authenticationAttribute = (String) session.getAttribute("authenticated");
+        return Boolean.valueOf(authenticationAttribute).booleanValue();
+
+    }
+}
