@@ -66,5 +66,6 @@ public class EasyMockSampleServletTest {
         verify(mockHttpServletRequest);
         verify(mockHttpSession);
         //http://blog.csdn.net/u011904605/article/details/54590383
+        //http://download.csdn.net/download/zmx729618/8989709
     }
 }
